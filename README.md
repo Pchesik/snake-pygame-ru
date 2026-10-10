@@ -7,7 +7,7 @@
 ## 👥 Авторы проекта
 
 * **Создатель оригинала:** [@rajatdiptabiswas](https://github.com/rajatdiptabiswas)
-* **Оригинальный репозиторий:** [rajatdiptabiswas/snake-pygame](https://github.com/snake-pygame)
+* **Оригинальный репозиторий:** [rajatdiptabiswas/snake-pygame](https://github.com/rajatdiptabiswas/snake-pygame)
 
 * **Переводчик кода и комментариев:** [@Pchesik](https://github.com/Pchesik)
 * **Этот репозиторий с переводом:** [snake-pygame-ru](https://github.com/Pchesik/snake-pygame-ru)
